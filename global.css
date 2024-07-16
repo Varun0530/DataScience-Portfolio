@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-inter: Inter;
+  --font-red-rose: "Red Rose";
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-3xl: 22px;
+  --font-size-lg: 18px;
+  --font-size-mini: 15px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-19xl: 38px;
+
+  /* Colors */
+  --color-gray-100: #0f0f0f;
+  --color-white: #fff;
+  --color-orangered: #ff520e;
+  --color-gainsboro: #e1e1e1;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-5xl: 24px;
+}
